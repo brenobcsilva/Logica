@@ -1,2 +1,4 @@
-package Logica;public class SubsequenciaRepetidaNaString {
+package Logica;
+
+public class SubsequenciaRepetidaNaString {
 }
